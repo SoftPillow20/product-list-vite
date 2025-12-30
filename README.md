@@ -40,7 +40,7 @@ DEV NOTE (11/12/2025) : I have not yet build the react app since I'm still curre
 
 DEV NOTE (31/12/2025) : I finally decided to build this app with vite. I probably should have done that before 😅.
 
-Soon : Live site URL
+Soon : [Live Site](https://product-list-with-vite.netlify.app/)
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
